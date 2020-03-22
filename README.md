@@ -2,7 +2,7 @@
 SQL Practice 
 
 The data is in the "country_club" database. 
-This databasecontains 3 tables:
+This database contains 3 tables:
 
     i) the "Bookings" table,
     
