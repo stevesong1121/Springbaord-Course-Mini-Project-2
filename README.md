@@ -1,4 +1,4 @@
-# Springbaord-Course-Mini-Project-2
+# Springboard-Course-Mini-Project-2
 SQL Practice 
 
 The data is in the "country_club" database. 
